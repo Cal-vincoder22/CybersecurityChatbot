@@ -1,4 +1,4 @@
-# 🔒 Cybersecurity Awareness Chatbot — Part 1
+#  Cybersecurity Awareness Chatbot — Part 1
 
 > **Module:** PROG6221 — Programming 2A  
 > **Assessment:** Portfolio of Evidence (POE) — Part 1  
@@ -6,27 +6,27 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 A C# console application that acts as a **Cybersecurity Awareness Assistant** for South African citizens. The chatbot provides interactive, educational responses on topics such as phishing, password safety, malware, online scams, and more.
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🔊 Voice Greeting | Plays a recorded WAV greeting when the app launches |
-| 🎨 ASCII Art Logo | Displays a cybersecurity-themed ASCII art header |
-| 👤 Personalised Interaction | Asks for the user's name and personalises all responses |
-| 💬 Response System | Responds to cybersecurity topics and general queries |
-| ✅ Input Validation | Handles empty inputs and unrecognised queries gracefully |
-| 🎨 Enhanced Console UI | Colour-coded text, borders, typing effect, section dividers |
-| 🏗️ Clean Code Structure | Separated into classes: `Program`, `ConsoleUI`, `ChatBot`, `AudioPlayer` |
+|  Voice Greeting | Plays a recorded WAV greeting when the app launches |
+|  ASCII Art Logo | Displays a cybersecurity-themed ASCII art header |
+|  Personalised Interaction | Asks for the user's name and personalises all responses |
+|  Response System | Responds to cybersecurity topics and general queries |
+|  Input Validation | Handles empty inputs and unrecognised queries gracefully |
+|  Enhanced Console UI | Colour-coded text, borders, typing effect, section dividers |
+|  Clean Code Structure | Separated into classes: `Program`, `ConsoleUI`, `ChatBot`, `AudioPlayer` |
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 CybersecurityChatbot/
@@ -55,7 +55,7 @@ CybersecurityChatbot/
 
 ---
 
-## 🚀 Setup & Running the Application
+##  Setup & Running the Application
 
 ### Prerequisites
 - **Visual Studio 2022** (Community or higher)
@@ -88,22 +88,22 @@ CybersecurityChatbot/
 
 ---
 
-## 💬 Example Interactions
+##  Example Interactions
 
 ```
 [YourName] › What is phishing?
-[CyberBot] › 🎣 How to Spot Phishing Attacks:
+[CyberBot] › How to Spot Phishing Attacks:
               • Be suspicious of urgent emails asking you to 'act now'.
               • Check the sender's email address carefully for slight misspellings.
               ...
 
 [YourName] › Tell me about password safety
-[CyberBot] › 🔑 Password Safety Tips:
+[CyberBot] › Password Safety Tips:
               • Use at least 12 characters mixing letters, numbers, and symbols.
               ...
 
 [YourName] › exit
-[CyberBot] › Goodbye! Stay safe online. 🔒
+[CyberBot] › Goodbye! Stay safe online. 
 ```
 
 ### Supported Topics
@@ -121,14 +121,14 @@ CybersecurityChatbot/
 
 ---
 
-## ✅ GitHub Actions CI — Successful Build
+##  GitHub Actions CI — Successful Build
 
 > **Screenshot of passing CI workflow:**
 
 <img width="1292" height="603" alt="CI Workflow" src="https://github.com/user-attachments/assets/b9fb7d6c-b159-41ed-8510-765802193306" />
 
 
-## 📝 Commit History (Minimum 6 Commits)
+##  Commit History (Minimum 6 Commits)
 
 | # | Commit Message |
 |---|---|
@@ -141,6 +141,6 @@ CybersecurityChatbot/
 
 ---
 
-## 📚 References
+##  References
 
 Pieterse, H. 2021. The Cyber Threat Landscape in South Africa: A 10-Year Review. *The African Journal of Information and Communication*, 28(28). Available at: https://www.scielo.org.za/scielo.php?pid=S2077-72132021000200003&script=sci_arttext [Accessed 10 April 2026].
